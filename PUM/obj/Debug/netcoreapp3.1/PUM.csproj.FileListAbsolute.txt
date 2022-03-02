@@ -1,0 +1,13 @@
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\bin\Debug\netcoreapp3.1\PUM.exe
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\bin\Debug\netcoreapp3.1\PUM.deps.json
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\bin\Debug\netcoreapp3.1\PUM.runtimeconfig.json
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\bin\Debug\netcoreapp3.1\PUM.runtimeconfig.dev.json
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\bin\Debug\netcoreapp3.1\PUM.dll
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\bin\Debug\netcoreapp3.1\PUM.pdb
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\obj\Debug\netcoreapp3.1\PUM.csprojAssemblyReference.cache
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\obj\Debug\netcoreapp3.1\PUM.AssemblyInfoInputs.cache
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\obj\Debug\netcoreapp3.1\PUM.AssemblyInfo.cs
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\obj\Debug\netcoreapp3.1\PUM.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\obj\Debug\netcoreapp3.1\PUM.dll
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\obj\Debug\netcoreapp3.1\PUM.pdb
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\PUM\obj\Debug\netcoreapp3.1\PUM.genruntimeconfig.cache

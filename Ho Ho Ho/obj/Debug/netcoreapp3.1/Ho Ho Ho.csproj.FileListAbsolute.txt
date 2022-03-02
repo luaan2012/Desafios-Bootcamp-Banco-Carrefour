@@ -1,0 +1,13 @@
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\bin\Debug\netcoreapp3.1\Ho Ho Ho.exe
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\bin\Debug\netcoreapp3.1\Ho Ho Ho.deps.json
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\bin\Debug\netcoreapp3.1\Ho Ho Ho.runtimeconfig.json
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\bin\Debug\netcoreapp3.1\Ho Ho Ho.runtimeconfig.dev.json
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\bin\Debug\netcoreapp3.1\Ho Ho Ho.dll
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\bin\Debug\netcoreapp3.1\Ho Ho Ho.pdb
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\obj\Debug\netcoreapp3.1\Ho Ho Ho.csprojAssemblyReference.cache
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\obj\Debug\netcoreapp3.1\Ho Ho Ho.AssemblyInfoInputs.cache
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\obj\Debug\netcoreapp3.1\Ho Ho Ho.AssemblyInfo.cs
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\obj\Debug\netcoreapp3.1\Ho Ho Ho.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\obj\Debug\netcoreapp3.1\Ho Ho Ho.dll
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\obj\Debug\netcoreapp3.1\Ho Ho Ho.pdb
+C:\Users\ThinkPad L14\Documents\Desafios - bootcamp Banco Carrefour\Ho Ho Ho\obj\Debug\netcoreapp3.1\Ho Ho Ho.genruntimeconfig.cache
