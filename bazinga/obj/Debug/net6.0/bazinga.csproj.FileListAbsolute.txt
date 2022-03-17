@@ -1,0 +1,15 @@
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\bin\Debug\net6.0\bazinga.exe
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\bin\Debug\net6.0\bazinga.deps.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\bin\Debug\net6.0\bazinga.runtimeconfig.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\bin\Debug\net6.0\bazinga.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\bin\Debug\net6.0\bazinga.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\bazinga.csproj.AssemblyReference.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\bazinga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\bazinga.AssemblyInfoInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\bazinga.AssemblyInfo.cs
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\bazinga.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\bazinga.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\refint\bazinga.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\bazinga.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\bazinga.genruntimeconfig.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\bazinga\obj\Debug\net6.0\ref\bazinga.dll

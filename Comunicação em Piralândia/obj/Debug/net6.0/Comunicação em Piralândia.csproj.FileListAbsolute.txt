@@ -1,0 +1,15 @@
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\bin\Debug\net6.0\Comunicação em Piralândia.exe
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\bin\Debug\net6.0\Comunicação em Piralândia.deps.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\bin\Debug\net6.0\Comunicação em Piralândia.runtimeconfig.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\bin\Debug\net6.0\Comunicação em Piralândia.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\bin\Debug\net6.0\Comunicação em Piralândia.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\Comunicação em Piralândia.csproj.AssemblyReference.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\Comunicação em Piralândia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\Comunicação em Piralândia.AssemblyInfoInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\Comunicação em Piralândia.AssemblyInfo.cs
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\Comunicação em Piralândia.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\Comunicação em Piralândia.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\refint\Comunicação em Piralândia.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\Comunicação em Piralândia.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\Comunicação em Piralândia.genruntimeconfig.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Comunicação em Piralândia\obj\Debug\net6.0\ref\Comunicação em Piralândia.dll

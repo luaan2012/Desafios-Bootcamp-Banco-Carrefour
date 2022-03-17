@@ -1,0 +1,15 @@
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\bin\Debug\net6.0\Galopeira.exe
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\bin\Debug\net6.0\Galopeira.deps.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\bin\Debug\net6.0\Galopeira.runtimeconfig.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\bin\Debug\net6.0\Galopeira.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\bin\Debug\net6.0\Galopeira.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\Galopeira.csproj.AssemblyReference.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\Galopeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\Galopeira.AssemblyInfoInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\Galopeira.AssemblyInfo.cs
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\Galopeira.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\Galopeira.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\refint\Galopeira.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\Galopeira.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\Galopeira.genruntimeconfig.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Galopeira\obj\Debug\net6.0\ref\Galopeira.dll

@@ -1,0 +1,15 @@
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\bin\Debug\net6.0\Top N.exe
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\bin\Debug\net6.0\Top N.deps.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\bin\Debug\net6.0\Top N.runtimeconfig.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\bin\Debug\net6.0\Top N.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\bin\Debug\net6.0\Top N.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\Top N.csproj.AssemblyReference.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\Top N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\Top N.AssemblyInfoInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\Top N.AssemblyInfo.cs
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\Top N.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\Top N.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\refint\Top N.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\Top N.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\Top N.genruntimeconfig.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Desafios - bootcamp Banco Carrefour\Teste\Top N\obj\Debug\net6.0\ref\Top N.dll
